@@ -36,9 +36,9 @@ public class ExampleClass {
 }
 ```
 
-클래스는 <font color='dodgerblue'>필드(field), 메서드(method), 생성자(constructor), 이너 클래스(inner class)</font>의 구성되어 있다.
+클래스는 <font color='dodgerblue'>필드(field), 메서드(method), 생성자(constructor), 이너 클래스(inner class)</font>의 구성되어 있다. <br>
 
-<font color='dodgerblue'>필드(Field) </font> : 클래스의 속성을 나타내는 변수, 예를 들면 모델명, 컬러, 바퀴의 수 등 <br>
-<font color='dodgerblue'>메서드(Method) </font> : 클래스의 기능을 나타내는 함수, 예로 들면 시동하기, 가속하기, 정지하기 등 <br>
-<font color='dodgerblue'>생성자(Constructor) </font>: 클래스의 객체를 생성하는 역할 <br>
-<font color='dodgerblue'>이너 클래스(Inner Class) </font>: 클래스 내부의 클래스를 의미 <br>
+필드(Field) : 클래스의 속성을 나타내는 변수, 예를 들면 모델명, 컬러, 바퀴의 수 등 <br>
+메서드(Method) : 클래스의 기능을 나타내는 함수, 예로 들면 시동하기, 가속하기, 정지하기 등 <br>
+생성자(Constructor) : 클래스의 객체를 생성하는 역할 <br>
+이너 클래스(Inner Class) : 클래스 내부의 클래스를 의미 <br>
